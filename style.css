@@ -1,0 +1,41 @@
+#Heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0
+}
+
+#Note {
+    font-size: 15px;
+    color: black
+}
+
+.Speed {
+    float: left
+}
+
+.Volume {
+    float: right
+}
+
+#SpeedImage,
+#VolumeImage {
+    width: 200px;
+    border-radius: 50%
+}
+
+#Speed,
+#Volume {
+    font-size: 23px;
+    margin: 15px
+}
+
+#Play,
+#Stop {
+    width: 130px;
+    font-size: 25px
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 15px
+}
